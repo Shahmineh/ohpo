@@ -4,18 +4,17 @@
     <header>
       <MainNav />
     </header>
-    <Container tag="main" className="flex-grow-1">
+    <Container-fluid tag="main" className="flex-grow-1">
       <Route exact path="/">
         <Row>
-          <Col className="col-12 col-lg-8 offset-lg-2">
-           
+          <Col className="col-12">
+            <Hero />
           </Col>
         </Row>
       </Route>
-      <Route path="/clock" component={Clock} />
-      <Route path="/todo-list" component={TodoList} />
-      <Route path="/conditionals" component={Conditionals} />
-      <Route path="/loops" component={Loops} />
+    </Container-fluid>
+    <Container>
+      
     </Container>
     
       <Footer />
