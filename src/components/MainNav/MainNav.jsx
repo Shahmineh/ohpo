@@ -2,7 +2,7 @@
   <Navbar light expand="md">
     <NavbarBrand to="/">
       {/* <img alt="React" className="logo" src={logo} /> */}
-      <h2 className="logo">OHPO Konsult</h2>
+      <h2 className="navigation__logo">OHPO Konsult</h2>
     </NavbarBrand>
     <NavbarToggler onClick={e => this.toggle()} />
     <Collapse isOpen={this.isOpen} navbar>
