@@ -10,6 +10,7 @@
   "  MainNav": "components/MainNav/MainNav",
   "  Conditionals": "components/Conditionals/Conditionals",
   "  Loops": "components/Loops/Loops",
+  "  Hero": "components/Hero/Hero",
 
   "/*3": "--------  Utilities (Component based) --------",
   "  NavLink": "utilities/NavLink/NavLink",
