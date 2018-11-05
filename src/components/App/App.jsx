@@ -11,7 +11,7 @@
             <Jumbotron className="mt-5 light-blue-bg">
               <h1 className="display-3">Welcome!</h1>
               <p className="lead">This is a simple example app, illustrating some of the things you can do with React Warp Core.</p>
-              <hr className="my-2" />
+              <hr c-lassName="my-2" />
               <p><b>React Warp Core</b> automatically creates new projects bootstrapped with <ExLink href="https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md">create-react-app</ExLink> <i>and</i> adds som nice extras, like:</p>
               <ul>
                 <li><ExLink href="https://reacttraining.com/react-router/web/guides/quick-start">React Router</ExLink></li>
@@ -35,7 +35,15 @@
       <Route path="/loops" component={Loops} />
     </Container>
     <footer className="bg-light mt-3">
-      <small>React Warp Core &ndash; example app&nbsp;&nbsp;© Thomas Frank</small>
+      <div>
+        <Link to="/" style = {{textDecoration:'none'}}><img alt="imgMail" className="imgFooter" src={imgMail} />
+        <small className="linkFooter">Info@ohpokonsult.se</small>
+        </Link>
+      </div>
+      <div>
+        <Link to="/clock" style = {{textDecoration:'none'}}><img alt="imgLinked" className="imgFooter" src={imgLinkedIn} /><small className="linkFooter">OHPO Konsult</small>
+        </Link>
+      </div>
     </footer>
   </div>
 </Router>
