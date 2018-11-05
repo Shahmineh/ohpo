@@ -1,0 +1,18 @@
+.footer {
+  padding: 20px 40px;
+  text-align:center;
+
+  .footer__linkImage{
+    height: 19px;
+    margin-right: 5px;
+  }
+
+  .footer__link{
+    color: #000;
+  }
+  
+  .footer__link:hover{
+    color: #666;
+  }
+}
+
