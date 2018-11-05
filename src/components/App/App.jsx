@@ -16,16 +16,7 @@
     <Container>
       
     </Container>
-    <footer className="bg-light mt-3">
-      <div>
-        <Link to="/" style = {{textDecoration:'none'}}><img alt="imgMail" className="imgFooter" src={imgMail} />
-        <small className="linkFooter">Info@ohpokonsult.se</small>
-        </Link>
-      </div>
-      <div>
-        <Link to="/clock" style = {{textDecoration:'none'}}><img alt="imgLinked" className="imgFooter" src={imgLinkedIn} /><small className="linkFooter">OHPO Konsult</small>
-        </Link>
-      </div>
-    </footer>
+    
+      <Footer />
   </div>
 </Router>
