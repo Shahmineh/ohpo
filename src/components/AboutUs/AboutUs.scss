@@ -1,17 +1,37 @@
-.aboutUs__row{
-  text-align: center;
-}
-
 .aboutUs__headline{
   text-align: center;
   color: #ba0000;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
+  padding-top: 100px;
 }
 
-.aboutUs__imgExcel{
+@media only screen and (min-width: 375px) {
+  .aboutUs__img{
+    padding: 0;
+    margin-bottom: 45px;
+  }
+}
+
+.aboutUs__imgs{
   height: 225px;
 }
 
-.aboutUs__imgTeam{
-  height: 200px;
+@media only screen and (min-width: 375px) {
+  .aboutUs__imgs{
+    width: 100%; 
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .aboutUs__img{
+    padding-right: 75px;
+  }
+}
+
+.aboutUs__text{
+  line-height: 1.6;
+}
+
+.aboutUs__row{
+  padding-top: 45px;
 }
