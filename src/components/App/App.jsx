@@ -14,9 +14,9 @@
       </Route>
     </Container-fluid>
     <Container>
-      <Row>
+
         <AboutUs /> 
-      </Row>
+  
     </Container>
     
     <Footer />
