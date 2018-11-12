@@ -1,3 +1,2 @@
 <Fragment>
-  hej
 </Fragment>
