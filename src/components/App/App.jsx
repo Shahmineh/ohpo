@@ -14,9 +14,11 @@
       </Route>
     </Container-fluid>
     <Container>
-      
+
+        <AboutUs /> 
+  
     </Container>
     
-      <Footer />
+    <Footer />
   </div>
 </Router>

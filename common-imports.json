@@ -12,6 +12,7 @@
   "  Loops": "components/Loops/Loops",
   "  Footer": "components/Footer/Footer",
   "  Hero": "components/Hero/Hero",
+  "  AboutUs": "components/AboutUs/AboutUs",
 
   "/*3": "--------  Utilities (Component based) --------",
   "  NavLink": "utilities/NavLink/NavLink",
