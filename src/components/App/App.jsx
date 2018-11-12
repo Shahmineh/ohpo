@@ -6,7 +6,7 @@
     </header>
     <Container-fluid tag="main" className="flex-grow-1">
       <Route exact path="/">
-        <Row>
+        <Row className="app__row">
           <Col className="col-12">
             <Hero />
           </Col>
