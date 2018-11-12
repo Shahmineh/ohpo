@@ -14,7 +14,7 @@
       </Route>
     </Container-fluid>
     <Container>
-      
+      <Contact /> 
     </Container>
     
       <Footer />

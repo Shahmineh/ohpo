@@ -12,6 +12,7 @@
   "  Loops": "components/Loops/Loops",
   "  Footer": "components/Footer/Footer",
   "  Hero": "components/Hero/Hero",
+  "  Contact": "components/Contact/Contact",
 
   "/*3": "--------  Utilities (Component based) --------",
   "  NavLink": "utilities/NavLink/NavLink",
