@@ -16,10 +16,10 @@
     <Container>
 
         <AboutUs /> 
-
+        <Contact /> 
         <Cases />
   
-      <Contact /> 
+      
     </Container>
     
     <Footer />
