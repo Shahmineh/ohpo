@@ -1,42 +1,43 @@
-.cases__headline{
-    text-align: center;
-    color: #ba0000;
-    padding-bottom: 100px;
-    padding-top: 100px;
-}
+.cases {
 
-.cases__img{
-    height: 200px;
-}
-
-@media only screen and (min-width: 375px) {
-    .cases__imgs{
-      padding: 0;
-      margin-bottom: 45px;
+  .cases__headline {
+      text-align: center;
+      color: #ba0000;
+      padding-bottom: 100px;
+      padding-top: 100px;
     }
-    .cases__img{
-      width: 100%; 
+
+    .cases__img {
+        height: 200px;
     }
-  }
 
-@media only screen and (min-width: 768px) {
-  .cases__img{
-    padding-right: 75px;
-  }
-}
+    @media only screen and (min-width: 375px) {
+        .cases__imgs {
+          padding: 0;
+          margin-bottom: 45px;
+        }
+        .cases__img {
+          width: 100%; 
+        }
+      }
 
-.cases__row{    
-    padding-top: 45px;
-}
+    @media only screen and (min-width: 768px) {
+      .cases__img {
+        padding-right: 75px;
+      }
+    }
 
-.cases__rowCases{
-    text-align: center;
-}
+    .cases__row {    
+        padding-top: 45px;
+    }
 
-TEXT_COLLAPSE_OPTIONS.collapse.true{
-  overflow:hidden;
-}
+    .cases__row-cases {
+        text-align: center;
+    }
 
-.cases__icons{
-    height: 100px;
+    .cases__icons {
+        height: 100px;
+    }
+
 }
+  

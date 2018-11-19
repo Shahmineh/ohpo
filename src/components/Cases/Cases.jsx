@@ -1,4 +1,4 @@
-<Fragment>
+<div className = "cases">
   <h2 className="cases__headline">Cases</h2>
   <Row>
     <Col sm="4" className="cases__imgs">
@@ -27,7 +27,7 @@
     </Col>
   </Row>
 
-  <Row className="cases__row cases__rowCases">
+  <Row className="cases__row cases__row-cases">
     <Col xs="6" sm="3"><img alt="cases" className="cases__icons" src={case1} /></Col>
     <Col xs="6" sm="3"><img alt="cases" className="cases__icons" src={case2} /></Col>
     <Col xs="6" sm="3"><img alt="cases" className="cases__icons" src={case3} /></Col>
@@ -35,9 +35,9 @@
 
   </Row>
 
-  <Row className="cases__row cases__rowCases">
+  <Row className="cases__row cases__row-cases">
     <Col xs="6"><img alt="cases" className="cases__icons" src={case5} /></Col>
     <Col xs="6"><img alt="cases" className="cases__icons" src={case2} /></Col>
   </Row>
 
-</Fragment>
+</div>
