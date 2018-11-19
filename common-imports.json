@@ -13,6 +13,7 @@
   "  Footer": "components/Footer/Footer",
   "  Hero": "components/Hero/Hero",
   "  AboutUs": "components/AboutUs/AboutUs",
+  "  Cases": "components/Cases/Cases",
   "  Contact": "components/Contact/Contact",
 
   "/*3": "--------  Utilities (Component based) --------",
