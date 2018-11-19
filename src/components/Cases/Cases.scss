@@ -5,18 +5,15 @@
     padding-top: 100px;
 }
 
-@media only screen and (min-width: 375px) {
-    .cases__imgs{
-      padding: 0;
-      margin-bottom: 45px;
-    }
-  }
-
 .cases__img{
     height: 200px;
 }
 
 @media only screen and (min-width: 375px) {
+    .cases__imgs{
+      padding: 0;
+      margin-bottom: 45px;
+    }
     .cases__img{
       width: 100%; 
     }
