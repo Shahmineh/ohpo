@@ -16,7 +16,8 @@
     <Container>
 
         <AboutUs /> 
-  
+
+        <Cases />
     </Container>
     
     <Footer />
