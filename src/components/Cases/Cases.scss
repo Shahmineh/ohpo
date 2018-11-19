@@ -25,16 +25,16 @@
   }
 }
 
-.cases__readmore{
-  color: #ba0000;
-}
-
 .cases__row{    
     padding-top: 45px;
 }
 
 .cases__rowCases{
     text-align: center;
+}
+
+TEXT_COLLAPSE_OPTIONS.collapse.true{
+  overflow:hidden;
 }
 
 .cases__icons{
