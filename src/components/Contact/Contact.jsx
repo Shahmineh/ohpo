@@ -14,7 +14,5 @@
       <img src={mail} className="contact__mail" alt="" />
       <p>OHPO konsult</p>
     </span>
-    
   </div>
-  
 </Fragment>
