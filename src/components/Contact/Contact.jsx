@@ -5,7 +5,7 @@
     Give us a call or send us an email and we will get back to 
     you as soon as possible!
   </p>
-  <div className="text-center mt-5">
+  <div className="text-center mt-5 pb-5">
     <span className="d-inline-block mr-5">
       <img src={linkedin} className="contact__linkedin" alt="" />
       <p>info@ohpokonsult.se</p>
