@@ -1,4 +1,4 @@
-<Fragment>
+<div className="contact">
   <h2 className="contact__headline text-center mt-5 mb-4">Let's get in touch</h2>
   <p className="contact__text text-center pb-3">
     Ready to start your next procect with us? That´s great!
@@ -15,4 +15,4 @@
       <p>OHPO konsult</p>
     </span>
   </div>
-</Fragment>
+</div>

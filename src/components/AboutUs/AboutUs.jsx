@@ -1,4 +1,4 @@
-<Fragment className="about-us">
+<div className="about-us">
   <h2 className = "aboutUs__headline">Om oss</h2>
     <Row> 
       <Col sm="4" className="aboutUs__img">
@@ -31,4 +31,4 @@
         Penatibus phasellus lectus diam. Velit porta.</p>
       </Col>
     </Row>
-</Fragment>
+</div>
