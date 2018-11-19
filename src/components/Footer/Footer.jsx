@@ -1,4 +1,4 @@
-<Fragment className="footer">
+<div className="footer">
   <footer className = "footer bg-light mt-3">
     <div>
       <Link to="/" className = "footer__links" style = {{textDecoration:'none'}}><img alt="imgMail" className="footer__linkImage" src={imgMail} />
@@ -10,4 +10,4 @@
       </Link>
     </div>
   </footer>
-</Fragment>
+</div>

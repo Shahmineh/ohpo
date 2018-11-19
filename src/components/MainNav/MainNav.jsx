@@ -1,4 +1,4 @@
-<div>
+<div className="mainNav">
   <Navbar light expand="md">
     <NavbarBrand to="/">
       {/* <img alt="React" className="logo" src={logo} /> */}
