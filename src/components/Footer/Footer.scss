@@ -6,10 +6,15 @@
 
   .footer__link{
     color: #000;
+    @media (max-width: 767px) {
+      display: none;
+    }
   }
   
   .footer__link:hover{
     color: #666;
   }
+
+  
 }
 
