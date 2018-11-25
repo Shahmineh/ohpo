@@ -1,4 +1,4 @@
-<div className="about-us">
+<div className="about-us" id="about-us">
   <h2 className = "aboutUs__headline">Om oss</h2>
     <Row> 
       <Col sm="4" className="aboutUs__img">

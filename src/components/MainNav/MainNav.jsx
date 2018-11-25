@@ -1,7 +1,7 @@
 <div className="mainNav">
   <Navbar light expand="md"
-  style={{padding: '20px'}}>
-    <NavbarBrand to="/">
+  style={{padding: '20px', backgroundColor: '#fff'}} className="fixed-top">
+    <NavbarBrand  to="/">
       {/* <img alt="React" className="logo" src={logo} /> */}
       <h2 className="navigation__logo">OHPO Konsult</h2>
     </NavbarBrand>
@@ -9,13 +9,13 @@
     <Collapse isOpen={this.isOpen} navbar>
       <Nav className="ml-auto" navbar>
         <NavItem>
-          <NavLink exact to="/" activeClassName = "active">Om oss</NavLink>
+          <NavLink><Scrollchor exact to="#about-us" activeClassName = "active">Om oss</Scrollchor></NavLink>
         </NavItem>
         <NavItem>
-          <NavLink to="/clock" activeClassName = "active">Kontakta oss</NavLink>
+          <NavLink><Scrollchor to="#contact" activeClassName = "active">Kontakta oss</Scrollchor></NavLink>
         </NavItem>
         <NavItem>
-          <NavLink to="/todo-list" activeClassName = "active">Cases</NavLink>
+          <NavLink><Scrollchor to="#cases" activeClassName = "active">Cases</Scrollchor></NavLink>
         </NavItem>
         <NavItem>
           <NavLink to="/conditionals" activeClassName = "active">In English</NavLink>
