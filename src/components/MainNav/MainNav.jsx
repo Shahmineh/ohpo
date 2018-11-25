@@ -1,5 +1,6 @@
-<div>
-  <Navbar light expand="md">
+<div className="mainNav">
+  <Navbar light expand="md"
+  style={{padding: '20px'}}>
     <NavbarBrand to="/">
       {/* <img alt="React" className="logo" src={logo} /> */}
       <h2 className="navigation__logo">OHPO Konsult</h2>
