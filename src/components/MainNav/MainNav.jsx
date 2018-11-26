@@ -1,8 +1,11 @@
 <div className="mainNav">
   <Navbar light expand="md"
   style={{padding: '20px', backgroundColor: '#fff'}} className="fixed-top">
-    <NavbarBrand  to="/">
-      <h2 className="navigation__logo">OHPO Konsult</h2>
+    <NavbarBrand>
+      <Scrollchor to='' className="nav-link">
+        <h2 className="navigation__logo">OHPO Konsult</h2>
+      </Scrollchor>
+      
     </NavbarBrand>
     <NavbarToggler onClick={e => this.toggle()} />
     <Collapse isOpen={this.isOpen} navbar>
