@@ -14,8 +14,11 @@
       
     </span>
     <span className="d-inline-block ml-1">
-      <img src={mail} className="contact__mail" alt="" />
-      <p>OHPO konsult</p>
+      <a href="mailto:info@ohpokonsult.se" style={{color: '#000'}}>
+        <img src={mail} className="contact__mail" alt="" />
+        <p>OHPO konsult</p>
+      </a>
+      
     </span>
   </div>
 </div>
