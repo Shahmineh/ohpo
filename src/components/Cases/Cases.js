@@ -12,8 +12,8 @@ const TEXT_COLLAPSE_OPTIONS = {
     collapse: false, // default state when component rendered
     collapseText: 'Läs mer', // text to show when collapsed
     expandText: 'Visa mindre', // text to show when expanded
-    minHeight: 100, // component height when closed
-    maxHeight: 180, // expanded to
+    minHeight: 78, // component height when closed
+    maxHeight: 170, // expanded to
     textStyle: { // pass the css for the collapseText and expandText here
       color: " #ba0000",
       fontSize: "18px",

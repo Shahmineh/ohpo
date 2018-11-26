@@ -9,7 +9,7 @@
     }
 
     .cases__img {
-        height: 200px;
+        height: auto;
     }
 
     @media only screen and (min-width: 375px) {
@@ -24,7 +24,7 @@
 
     @media only screen and (min-width: 768px) {
       .cases__img {
-        padding-right: 75px;
+        padding-right: 35px;
       }
     }
 

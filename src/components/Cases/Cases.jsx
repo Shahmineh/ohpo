@@ -5,7 +5,9 @@
       <img alt="caseIkea" className="cases__img" src={caseIkea} />
     </Col>
     <Col sm="8" className="cases__text">
-      <ReactTextCollapse options={TEXT_COLLAPSE_OPTIONS}>
+      <h5>Ikea</h5>
+      <ReactTextCollapse 
+        options={TEXT_COLLAPSE_OPTIONS}>
         <p>
           Lorem ipsum dolor sit amet consectetuer adipiscing elit. Non integer fames nascetur convallis morbi posuere id morbi metus. Ad magna accumsan nam. Condimentum etiam ridiculus sed purus. Suspendisse nec cras eni eros proin curabitur commodo ac eros ut a duis at. Diam dictum parturient vitae torquent dui eu consectetuer posuere netus pede habitant proin. Sit egestas neque augue sapien semper ullamcorper ut euismod massa dignissim vitae. Mi montes placerat adipiscing fames nulla sodales pharetra. Arcu duis phasellus tellus a potenti.
         </p>
@@ -18,12 +20,13 @@
       <img alt="caseBank" className="cases__img" src={caseBank} />
     </Col>
     <Col sm="8" className="cases__text">
-    <ReactTextCollapse
-      options={TEXT_COLLAPSE_OPTIONS}>
-      <p>
-        Lorem ipsum dolor sit amet consectetuer adipiscing elit. Non integer fames nascetur convallis morbi posuere id morbi metus. Ad magna accumsan nam. Condimentum etiam ridiculus sed purus. Suspendisse nec cras eni eros proin curabitur commodo ac eros ut a duis at. Diam dictum parturient vitae torquent dui eu consectetuer posuere netus pede habitant proin. Sit egestas neque augue sapien semper ullamcorper ut euismod massa dignissim vitae. Mi montes placerat adipiscing fames nulla sodales pharetra. Arcu duis phasellus tellus a potenti.
-      </p>
-      </ReactTextCollapse>
+      <h5>Swedbank</h5>
+      <ReactTextCollapse
+        options={TEXT_COLLAPSE_OPTIONS}>
+        <p>
+          Lorem ipsum dolor sit amet consectetuer adipiscing elit. Non integer fames nascetur convallis morbi posuere id morbi metus. Ad magna accumsan nam. Condimentum etiam ridiculus sed purus. Suspendisse nec cras eni eros proin curabitur commodo ac eros ut a duis at. Diam dictum parturient vitae torquent dui eu consectetuer posuere netus pede habitant proin. Sit egestas neque augue sapien semper ullamcorper ut euismod massa dignissim vitae. Mi montes placerat adipiscing fames nulla sodales pharetra. Arcu duis phasellus tellus a potenti.
+        </p>
+        </ReactTextCollapse>
     </Col>
   </Row>
 
