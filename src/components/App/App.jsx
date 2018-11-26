@@ -4,9 +4,10 @@
     <header>
       <MainNav />
     </header>
-    <Container-fluid tag="main" className="flex-grow-1">
+    <Container-fluid tag="main" className="flex-grow-1" 
+    /* style={{marginTop: '65px'}} */>
       <Route exact path="/">
-        <Row className="app__row">
+        <Row className="mr-0">
           <Col className="col-12 p-0">
             <Hero />
           </Col>
@@ -14,12 +15,11 @@
       </Route>
     </Container-fluid>
     <Container>
-
-        <AboutUs /> 
+      <AboutUs /> 
+      <div style={{textAlign: 'center'}}>
         <Contact /> 
-        <Cases />
-  
-      
+      </div>
+      <Cases />
     </Container>
     
     <Footer />
