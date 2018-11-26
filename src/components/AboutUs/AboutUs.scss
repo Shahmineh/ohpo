@@ -14,18 +14,12 @@
   }
 
   .aboutUs__imgs{
-    height: 225px;
+    width: 100%;
   }
-
-  @media only screen and (min-width: 375px) {
-    .aboutUs__imgs{
-      width: 100%; 
-    }
-  }
-
+  
   @media only screen and (min-width: 768px) {
     .aboutUs__img{
-      padding-right: 75px;
+      padding-right: 35px;
     }
   }
 
@@ -34,6 +28,6 @@
   }
 
   .aboutUs__row{
-    padding-top: 45px;
+    padding-top: 25px;
   }
 }
