@@ -1,4 +1,4 @@
-<Fragment>
+<div className="about-us">
   <h2 className = "aboutUs__headline">Om oss</h2>
     <Row> 
       <Col sm="4" className="aboutUs__img">
@@ -7,7 +7,8 @@
       <Col sm="8" className="aboutUs__text">
         <p>
         Lorem ipsum dolor sit amet consectetuer adipiscing elit. Non integer fames nascetur convallis morbi posuere id morbi metus. Ad magna accumsan nam. Condimentum etiam ridiculus sed purus. Suspendisse nec cras eni eros proin curabitur commodo ac eros ut a duis at. Diam dictum parturient vitae torquent dui eu consectetuer posuere netus pede habitant proin. Sit egestas neque augue sapien semper ullamcorper ut euismod massa dignissim vitae. Mi montes placerat adipiscing fames nulla sodales pharetra. Arcu duis phasellus tellus a potenti. Id est mi rutrum tincidunt placerat lobortis potenti est habitasse nulla augue.
-        Penatibus phasellus lectus diam. Velit porta. Hac nunc elit eros urna suscipit adipiscing. Arcu urna. Cum consequat taciti vel odio porta porta aliquam vehicula libero. Nam adipiscing nam. Odio interdum molestie justo vitae cursus fusce urna integer etiam in a aliquet. Dolor penatibus dictumst blandit parturient ipsum magna ullamcorper mus. Montes cras. Posuere non sapien varius eleifend massa et amet. Cras ultricies ad mi nostra fringilla parturient vestibulum nibh class mauris at placerat nunc sociis. Et torquent iaculis. Laoreet tempor ac in non odio eu pellentesque interdum.</p>
+        Penatibus phasellus lectus diam. Velit porta. Hac nunc elit eros urna suscipit adipiscing. Arcu urna. Cum consequat taciti vel odio porta porta aliquam vehicula libero. Nam adipiscing nam. Odio interdum molestie justo vitae cursus fusce urna integer etiam in a aliquet. Dolor penatibus dictumst blandit parturient ipsum magna ullamcorper mus. Montes cras. Posuere non sapien varius eleifend massa et amet. Cras ultricies ad mi nostra fringilla parturient vestibulum nibh class mauris at placerat nunc sociis. Et torquent iaculis. Laoreet tempor ac in non odio eu pellentesque interdum.
+        </p>
       </Col>
     </Row>  
 
@@ -30,7 +31,4 @@
         Penatibus phasellus lectus diam. Velit porta.</p>
       </Col>
     </Row>
-
-
-  
-</Fragment>
+</div>
