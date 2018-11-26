@@ -10,13 +10,13 @@
       </Link>
     </div>
     <div className="d-inline-block">
-      <Link to="/clock" className = "footer__links" 
+      <a href="https://www.linkedin.com/company/ohpo-konsult-ab/?trk=cws-cpw-logo-0-0" className = "footer__links" 
         style = {{textDecoration:'none'}}>
         <img alt="imageLinkedIn" 
         className="footer__linkImage" 
         src={imgLinkedIn} />
         <span className="footer__link">OHPO Konsult</span>
-      </Link>
+      </a>
     </div>
   </div>
 </div>

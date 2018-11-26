@@ -7,8 +7,11 @@
   </p>
   <div className="text-center mt-5 pb-5">
     <span className="d-inline-block mr-5">
-      <img src={linkedin} className="contact__linkedin" alt="" />
-      <p>info@ohpokonsult.se</p>
+      <a href="https://www.linkedin.com/company/ohpo-konsult-ab/?trk=cws-cpw-logo-0-0" style={{color: '#000'}}>
+        <img src={linkedin} className="contact__linkedin" alt="" />
+         <p>info@ohpokonsult.se</p>
+      </a>
+      
     </span>
     <span className="d-inline-block ml-1">
       <img src={mail} className="contact__mail" alt="" />
