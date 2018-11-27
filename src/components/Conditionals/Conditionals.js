@@ -1,1 +1,0 @@
-export default class Conditionals extends Component {}
