@@ -8,6 +8,7 @@ import case4 from './img/case4.png';
 import case5 from './img/case5.png';
 import case6 from './img/case6.png';
 import ReactTextCollapse from 'react-text-collapse';
+// react-text-collapse : A simple and customizable expand-collapse react component for the web
 const TEXT_COLLAPSE_OPTIONS = {
     collapse: false, // default state when component rendered
     collapseText: 'Läs mer', // text to show when collapsed
