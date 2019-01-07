@@ -18,10 +18,6 @@
   "  Route": "utilities/Route/Route",
   "  ExLink": "utilities/ExternalLink/ExternalLink",
   "  ConfirmModal": "utilities/ConfirmModal/ConfirmModal",
-  "  If": "utilities/If/If",
-  "  ElseIf": "utilities/ElseIf/ElseIf",
-  "  Else": "utilities/Else/Else",
-  "  Loop": "utilities/Loop/Loop",
  
   "/*4": "--------- Utilities (non-components) ---------",
   "!registerServiceWorker": "utilities/registerServiceWorker",
