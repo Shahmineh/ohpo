@@ -42,5 +42,31 @@
         En fil som exporteras från det ena systemet i t ex XML-format kan automatiskt byggas om i Excel till t ex en CSV-fil som kan importeras i det andra. På så sätt kan man spara värdefull tid som t ex kan användas till att möta nya kunder. Att bygga dessa små program är vår specialitet.
         </p>  
       </div>
+      <div>
+        <h4 className = "aboutUs__subHeadline">Bygga bort sårbarheter</h4>
+        <p className="about-us__content">
+          De stora fördelarna med Excel för med sig en del sårbarheter. Det är ganska lätt att göra bort sig, t ex ta radera viktiga formler. Formler kan även ändras utan att man märker det och det kan leda till stora konsekvenser om beräkningen man har gjort ligger som grund till viktiga beslut. Vi kan framtidssäkra era formler så att de på regelbunden basis uppdateras till aktuella data. 
+        </p>
+        <p className="about-us__content">
+          Excel lämpar sig dåligt till att spara större mängder data. Din Excelfil blir långsam och oregerlig och risken är stor att din data går förlorad. Ett bra alternativ är då att använda sig av databaser. Microsoft erbjuder flera olika databaser som smidigt kan användas tillsammans med Excel. Microsoft Access är en användarvänlig databas för det mindre företaget och ingår i en del av Office-paketen, Microsoft SQL Server är en kraftfull och mångsidig databas för det större företaget och Microsoft Azure SQL Database är en professionell databas för företag som väljer att lägga sin data i molnet. Vi på OHPO Konsult bygger ihop era Excellösningar med databaserna.
+        </p>
+        <p className="about-us__content">
+          Om det är flera personer som använder och har tillgång till samma Excelfil kan det lätt blir komplicerat. Ibland kan det vara svårt att härleda ändringar du och dina kollegor har gjort i filen och för att förebygga dessa problem kan vi bygga en dold eller synlig logg där man kan se vem som har gjort vilka ändringar, de nya och de gamla värdena och när ändringarna är gjorda.
+        </p>
+      </div>
+      <div>
+        <h4 className = "aboutUs__subHeadline">Prototyper</h4>
+        <p className="about-us__content">
+        En vanlig orsak till att IT-projekt misslyckas är att kunden inte har klart för sig vad den vill ha eller behöver. Excel, tillsammans med Microsoft Access, kan här med fördel användas till att bygga prototyper till mjukvarulösningar. Tillsammans med er kan vi leka oss fram till en funktionalitet som fungerar och passar ert tänk. Genom att arbeta direkt med er användare kan vi på ett tids- och kostnadseffektivt sätt bygga ett fullt fungerande verktyg som kan tjäna som prototyp åt en mer permanent lösning.
+        </p>
+      </div>
+      <div>
+        <h4 className = "aboutUs__subHeadline">
+        Integration av Excel och resten av programmen i Officepaketet
+        </h4>
+        <p className="about-us__content">
+        Förutom att bygga ihop Excel med Access kan man bygga ihop Excel med de andra programmen i Officepaketet. För Word-dokument av liknande sort, t ex offerter, är det en god ide att skapa mallar där all individuell information hämtas från Excel. Genom att bygga ihop Excel och Outlook kan man ge Excel tillgång till alla email och även instruera Outlook att skicka automatiska email om något viktigt händer i Excel. Om t ex din kollega ska använda en Excelfil efter dig kan han därför automatiskt få reda på att du är klar.
+        </p>
+      </div>
     </Row>
 </div>
