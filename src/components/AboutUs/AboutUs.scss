@@ -9,13 +9,11 @@
 
   .aboutUs__subHeadline {
     color: #ba0000;
-    padding-bottom: px;
     padding-top: 22px;
   }
 
   .aboutUs__subHeadline-image {
     color: #ba0000;
-    padding-bottom: px;
   }
 
     .about-us__imgs{
@@ -42,18 +40,33 @@
   
   
   @media only screen and (max-width: 576px) {
+    .aboutUs__headline { 
+      text-align: center;
+      color: #ba0000;
+      padding-bottom: 30px;
+      padding-top: 50px;
+    }
 
     .about-us__imgs{
       width: 100%;
+      padding: 0 0 15px 0;
     }
-   
+
     .about-us__content{
-      padding: 0px;
+      padding: 0 15px 0 15px;
       margin-bottom: 0px;
     }
 
     .about-us__content-text{
-      padding: 20px 0px 20px 0px
+      padding: 20px 15px 20px 15px
+    }
+
+    .aboutUs__subHeadline{
+      padding: 15px 15px 0 15px;
+    }
+
+    .aboutUs__subHeadline-image{
+      padding: 0 15px 0 15px;
     }
   }
 }
