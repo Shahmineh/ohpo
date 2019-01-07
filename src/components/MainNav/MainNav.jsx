@@ -1,12 +1,12 @@
 <div className="mainNav">
   <Navbar light expand="md"
   style={{padding: '20px', backgroundColor: '#fff'}} className="fixed-top">
-    <NavbarBrand>
+    <NavItem>
       <Scrollchor to='' className="nav-link">
         <h2 className="navigation__logo">OHPO Konsult</h2>
       </Scrollchor>
       
-    </NavbarBrand>
+    </NavItem>
     <NavbarToggler onClick={e => this.toggle()} />
     <Collapse isOpen={this.isOpen} navbar>
       <Nav className="ml-auto" navbar>
