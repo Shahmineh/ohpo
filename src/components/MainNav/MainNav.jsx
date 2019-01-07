@@ -17,12 +17,13 @@
         <NavItem>
           <Scrollchor to="#contact" className="nav-link">Kontakta oss</Scrollchor>
         </NavItem>
-        <NavItem>
+        {/* Hide cases and english until there are cases and content in english*/}
+        {/* <NavItem>
           <Scrollchor to="#cases" className="nav-link">Cases</Scrollchor>
         </NavItem>
         <NavItem>
           <NavLink to="/conditionals">In English</NavLink>
-        </NavItem>
+        </NavItem> */}
       </Nav>
     </Collapse>
   </Navbar>
