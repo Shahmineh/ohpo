@@ -1,28 +1,28 @@
 <div className="mainNav">
   <Navbar light expand="md"
-  style={{padding: '20px'}}>
-    <NavbarBrand to="/">
-      {/* <img alt="React" className="logo" src={logo} /> */}
-      <h2 className="navigation__logo">OHPO Konsult</h2>
+  style={{padding: '20px', backgroundColor: '#fff'}} className="fixed-top">
+    <NavbarBrand>
+      <Scrollchor to='' className="nav-link">
+        <h2 className="navigation__logo">OHPO Konsult</h2>
+      </Scrollchor>
+      
     </NavbarBrand>
     <NavbarToggler onClick={e => this.toggle()} />
     <Collapse isOpen={this.isOpen} navbar>
       <Nav className="ml-auto" navbar>
         <NavItem>
-          <NavLink exact to="/" activeClassName = "active">Om oss</NavLink>
+          {/* Scrollchor: A React component for scroll to #hash links with smooth animations */}
+          <Scrollchor exact="true" to="#about-us" className="nav-link">Om oss</Scrollchor>
         </NavItem>
         <NavItem>
-          <NavLink to="/clock" activeClassName = "active">Kontakta oss</NavLink>
+          <Scrollchor to="#contact" className="nav-link">Kontakta oss</Scrollchor>
         </NavItem>
         <NavItem>
-          <NavLink to="/todo-list" activeClassName = "active">Cases</NavLink>
+          <Scrollchor to="#cases" className="nav-link">Cases</Scrollchor>
         </NavItem>
         <NavItem>
-          <NavLink to="/conditionals" activeClassName = "active">In English</NavLink>
+          <NavLink to="/conditionals">In English</NavLink>
         </NavItem>
-        {/* <NavItem>
-          <NavLink to="/loops" activeClassName = "active">Loops</NavLink>
-        </NavItem> */}
       </Nav>
     </Collapse>
   </Navbar>

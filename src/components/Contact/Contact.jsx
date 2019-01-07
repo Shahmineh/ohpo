@@ -1,4 +1,4 @@
-<div className="contact" style={{display:'inline-block'}}>
+<div className="contact" id="contact" style={{display:'inline-block'}}>
   <h2 className="contact__headline text-center mt-5 mb-4">Let's get in touch</h2>
   <p className="contact__text text-center pb-3">
     Ready to start your next project with us? That´s great!
@@ -7,12 +7,18 @@
   </p>
   <div className="text-center mt-5 pb-5">
     <span className="d-inline-block mr-5">
-      <img src={linkedin} className="contact__linkedin" alt="" />
-      <p>info@ohpokonsult.se</p>
+      <a href="https://www.linkedin.com/company/ohpo-konsult-ab/?trk=cws-cpw-logo-0-0" style={{color: '#000'}}>
+        <img src={linkedin} className="contact__linkedin" alt="" />
+         <p>info@ohpokonsult.se</p>
+      </a>
+      
     </span>
     <span className="d-inline-block ml-1">
-      <img src={mail} className="contact__mail" alt="" />
-      <p>OHPO konsult</p>
+      <a href="mailto:info@ohpokonsult.se" style={{color: '#000'}}>
+        <img src={mail} className="contact__mail" alt="" />
+        <p>OHPO konsult</p>
+      </a>
+      
     </span>
   </div>
 </div>

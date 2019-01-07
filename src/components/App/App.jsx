@@ -4,8 +4,7 @@
     <header>
       <MainNav />
     </header>
-    <Container-fluid tag="main" className="flex-grow-1" 
-    /* style={{marginTop: '65px'}} */>
+    <Container-fluid tag="main" className="flex-grow-1" style={{marginTop: '96px'}}>
       <Route exact path="/">
         <Row className="mr-0">
           <Col className="col-12 p-0">
