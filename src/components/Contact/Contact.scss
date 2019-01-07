@@ -1,12 +1,15 @@
 .contact {
   padding-top: 90px;
-  
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+
   .contact__headline {
     color: #ba0000;
   }
   
   .contact__text {
-    font-size: 25px;
+    font-size: 27px;
     max-width: 700px;
     text-align: center;
   }
@@ -18,5 +21,7 @@
   .contact__mail {
     width: 100px;
   }
+
+
 }
 
