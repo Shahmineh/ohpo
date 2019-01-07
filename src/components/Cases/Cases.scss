@@ -1,0 +1,44 @@
+.cases {
+  padding-top: 50px;
+  
+  .cases__headline {
+      text-align: center;
+      color: #ba0000;
+      padding-bottom: 100px;
+      padding-top: 100px;
+    }
+
+    .cases__img {
+        height: auto;
+    }
+
+    @media only screen and (min-width: 375px) {
+        .cases__imgs {
+          padding: 0;
+          margin-bottom: 45px;
+        }
+        .cases__img {
+          width: 100%; 
+        }
+      }
+
+    @media only screen and (min-width: 768px) {
+      .cases__img {
+        padding-right: 35px;
+      }
+    }
+
+    .cases__row {    
+        padding-top: 45px;
+    }
+
+    .cases__row-cases {
+        text-align: center;
+    }
+
+    .cases__icons {
+        height: 100px;
+    }
+
+}
+  

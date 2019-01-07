@@ -1,4 +1,5 @@
 import './App.scss';
+
 @observer export default class App extends Component {
 
   @observable style = {opacity: 0};

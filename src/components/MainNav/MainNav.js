@@ -1,5 +1,6 @@
 import './MainNav.scss';
-import logo from './images/logo.svg';
+import Scrollchor from 'react-scrollchor';
+// import logo from './images/logo.svg';
 @withRouter @observer export default class MainNav extends Component {
   
   @observable isOpen = false;
