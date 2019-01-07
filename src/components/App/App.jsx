@@ -18,7 +18,8 @@
       <div style={{textAlign: 'center'}}>
         <Contact /> 
       </div>
-      <Cases />
+      {/* Hide Cases untill there is some case to show */}
+      {/* <Cases /> */}
     </Container>
     
     <Footer />
