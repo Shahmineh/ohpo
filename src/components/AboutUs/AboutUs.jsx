@@ -4,20 +4,42 @@
       <div>
         <img alt="imgExcel" className="about-us__imgs" src={imgExcel} />
           <p className="about-us__content">
-          Lorem ipsum dolor sit amet consectetuer adipiscing elit. Non integer fames nascetur convallis morbi posuere id morbi metus. Ad magna accumsan nam. Condimentum etiam ridiculus sed purus. Suspendisse nec cras eni eros proin curabitur commodo ac eros ut a duis at. Diam dictum parturient vitae torquent dui eu consectetuer posuere netus pede habitant proin. Sit egestas neque augue sapien semper ullamcorper ut euismod massa dignissim vitae. Mi montes placerat adipiscing fames nulla sodales pharetra. Arcu duis phasellus tellus a potenti. Id est mi rutrum tincidunt placerat lobortis potenti est habitasse nulla augue.
-          Penatibus phasellus lectus diam. Velit porta. Hac nunc elit eros urna suscipit adipiscing. Arcu urna. Cum consequat taciti vel odio porta porta aliquam vehicula libero. Nam adipiscing nam. Odio interdum molestie justo vitae cursus fusce urna integer etiam in a aliquet. Dolor penatibus dictumst blandit parturient ipsum magna ullamcorper mus. Montes cras. Posuere non sapien varius eleifend massa et amet. Cras ultricies ad mi nostra fringilla parturient vestibulum nibh class mauris at placerat nunc sociis. Et torquent iaculis. Laoreet tempor ac in non odio eu pellentesque interdum.
-          </p>  
+          OHPO Konsult drivs sedan 2013 av Ola Olsson och har Öresundsregionen som bas. Ola är utbildad ekonom från Lunds universitet och har innan han startade företaget varit verksam i finansbranschen.
+          </p>
+          <p className="about-us__content">
+          OHPO Konsult har som syfte att hjälpa er företagare att utnyttja potentialen i Excel och resten av Officepaketet så att ni kan få tid över till att göra det ni är bra på. Kanske kan den där extra timmen leda till att ni når den där drömkunden som är så svår att få tag på.
+          </p>
+          <p className="about-us__content">
+          Inget uppdrag är för litet eller obetydligt. Vi hjälper alla från egenföretagare till multinationella koncerner och uppdragens storlek varierar från några timmar till några månader.
+          </p>
+          <h4 className = "aboutUs__subHeadline">Excel</h4>  
+          <p className="about-us__content">
+          Microsoft Excel är ett av världens mest använda program och väldigt många har en relation till det. Vid anställning av kontorspersonal förutsätts ofta att kandidaterna är erfarna inom Excel. Fördelarna med Excel är många. Programmet är flexibelt, kraftfullt och användarvänligt. Det är egentligen bara fantasin som sätter gränsen för vad man kan använda Excel till.</p>
+          <p className="about-us__content">
+          De många inbyggda funktionerna gör det enkelt att manipulera sin data.
+          </p>
+          <p className="about-us__content">
+          Man får också snabbt en överblick över datan och med hjälp av diagram och pivottabeller kan man se viktiga trender. Med hjälp av villkorsstyrd formatering kan man hålla koll på viktiga nyckeltal.
+          </p>
+          <p className="about-us__content">
+          Eftersom Excel är en del Microsofts ekosystem öppnar sig en hel värld av möjligheteter om man lyfter blicken mot horisonten. Mer av detta kan ni läsa om senare.
+          </p>
           <p className="about-us__content-text">
-          Mi nisi habitasse adipiscing lorem litora scelerisque lectus malesuada. Blandit ligula risus dictum est. Diam consectetuer montes quisque porttitor nam fringilla purus aptent quis. Augue hac adipiscing dolor ve cursus duis praesent. Curae at pellentesque dictumst porta duis. Molestie nibh mi vulputate lacus nam nisl metus. Porta elementum nulla eu phasellus vehicula massa amet faucibus gravida elit rhoncus taciti aenean non. Hac pede primis nulla fames lacus potenti leo tortor nam. Egestas non sodales nulla vulputate convallis mollis.
-          Ridiculus montes euismod hymenaeos ante. Cubilia varius. Aliquam parturient pede habitant vestibulum. Faucibus tortor odio ac mattis per tellus tempus magna. Integer risus. Dapibus tristique augue vulputate sagittis platea litora parturient nunc fusce platea ut faucibus ante mattis. Ut eleifend iaculis aliquam platea eni. Molestie erat urna penatibus iaculis urna urna quisque velit id lobortis morbi turpis cras. Risus elementum pellentesque vestibulum felis primis dictum mauris torquent odio posuere hac semper. Nunc proin parturient ridiculus ante cum? Nisl. Litora et integer sollicitudin vehicula sagittis iaculis ornare maecenas duis rhoncus. Mus cursus nibh etiam adipiscing ultricies. Duis vel arcu congue. Mi dapibus sollicitudin sociosqu sociosqu rhoncus.
+          I stort sett allt du gör i Excel för hand kan automatiseras och det är här vi på OHPO Konsult kommer in.
           </p>
       </div>
 
        <div>
         <img alt="imgTeam" className="about-us__imgs" src={imgTeam} />
+        <h4 className = "aboutUs__subHeadline-image">Automatisering av manuella processer</h4>
         <p className="about-us__content">
-        Lorem ipsum dolor sit amet consectetuer adipiscing elit. Non integer fames nascetur convallis morbi posuere id morbi metus. Ad magna accumsan nam. Condimentum etiam ridiculus sed purus. Suspendisse nec cras eni eros proin curabitur commodo ac eros ut a duis at. Diam dictum parturient vitae torquent dui eu consectetuer posuere netus pede habitant proin. Sit egestas neque augue sapien semper ullamcorper ut euismod massa dignissim vitae. Mi montes placerat adipiscing fames nulla sodales pharetra. Arcu duis phasellus tellus a potenti. Id est mi rutrum tincidunt placerat lobortis potenti est habitasse nulla augue.
-        Penatibus phasellus lectus diam. Velit porta. Hac nunc elit eros urna suscipit adipiscing. Arcu urna. Cum consequat taciti vel odio porta porta aliquam vehicula libero. Nam adipiscing nam. Odio interdum molestie justo vitae cursus fusce urna integer etiam in a aliquet. Dolor penatibus dictumst blandit parturient ipsum magna ullamcorper mus. Montes cras. Posuere non sapien varius eleifend massa et amet. Cras ultricies ad mi nostra fringilla parturient vestibulum nibh class mauris at placerat nunc sociis. Et torquent iaculis. Laoreet tempor ac in non odio eu pellentesque interdum.
+        Data från databaser och andra filer som används till analyser kommer ofta i ett format som kräver handpåläggning innan själva analysen kan påbörjas. Om denna handpåläggning är densamma för varje gång kan vi automatisera den genom att skapa ett program i Excels egna programmeringsspråk Visual Basic for Applications (VBA).
+        </p>
+        <p className="about-us__content">
+        Även där man i första hand inte tänker på Excel kan vi hjälpa till. Ett viktigt arbetsmoment för ekonomer eller annan administrativ personal är ofta att föra över data från ett system till ett annat, som t ex från ett affärssystem till ett lönehanteringssystem. I den bästa av världar är dessa system fullt integrerade men ofta är så inte fallet. Då återstår vanligen ett mödosamt manuellt arbete med att knappa in alla siffor för hand. Detta tar både lång tid och riskerar att bli en stor felkälla. Här kan man med fördel använda sig av filerna som systemen skapar och läser in.
+        </p>
+        <p className="about-us__content">
+        En fil som exporteras från det ena systemet i t ex XML-format kan automatiskt byggas om i Excel till t ex en CSV-fil som kan importeras i det andra. På så sätt kan man spara värdefull tid som t ex kan användas till att möta nya kunder. Att bygga dessa små program är vår specialitet.
         </p>  
       </div>
     </Row>
