@@ -1,5 +1,5 @@
 <div className="about-us" id="about-us">
-  <h2 className = "aboutUs__headline">Om oss</h2>
+  <h1 className = "aboutUs__headline">Om oss</h1>
     <Row> 
       <div>
         <img alt="imgExcel" className="about-us__imgs" src={imgExcel} />
