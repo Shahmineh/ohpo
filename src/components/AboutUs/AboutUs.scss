@@ -10,6 +10,7 @@
   .aboutUs__subHeadline {
     color: #ba0000;
     padding-top: 22px;
+    padding-bottom: 5px;
   }
 
   .aboutUs__subHeadline-image {
@@ -27,8 +28,8 @@
       font-family: 'Lato', sans-serif;
       font-size: 19px;
       font-weight: 300;
-      // padding: 30px 20px 30px 20px;
-      margin-bottom: 0px;
+      padding-bottom: 5px;
+      // margin-bottom: 0px;
     }
 
     .about-us__content-text{
@@ -53,12 +54,11 @@
     }
 
     .about-us__content{
-      padding: 0 15px 0 15px;
-      margin-bottom: 0px;
+      padding: 0 15px 5px 15px;
     }
 
     .about-us__content-text{
-      padding: 20px 15px 20px 15px
+      padding: 0 15px 20px 15px
     }
 
     .aboutUs__subHeadline{
