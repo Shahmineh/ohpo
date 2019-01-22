@@ -55,6 +55,7 @@
         </p>
       </div>
       <div>
+      <img alt="teamwork" className="about-us__lastImgs" src={teamwork5} />
         <h4 className = "aboutUs__subHeadline">Prototyper</h4>
         <p className="about-us__content">
         En vanlig orsak till att IT-projekt misslyckas är att kunden inte har klart för sig vad den vill ha eller behöver. Excel, tillsammans med Microsoft Access, kan här med fördel användas till att bygga prototyper till mjukvarulösningar. Tillsammans med er kan vi leka oss fram till en funktionalitet som fungerar och passar ert tänk. Genom att arbeta direkt med er användare kan vi på ett tids- och kostnadseffektivt sätt bygga ett fullt fungerande verktyg som kan tjäna som prototyp åt en mer permanent lösning.
