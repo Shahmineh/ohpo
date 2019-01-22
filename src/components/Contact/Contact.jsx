@@ -10,13 +10,13 @@
       style={{ cursor: 'pointer' }}
       onClick={this.openLinkedin}>
       <img src={linkedin} className="contact__linkedin" alt="" />
-      <p>OHPO konsult</p>
+      <p className="contact__linkedin-text">OHPO konsult</p>
 
     </span>
     <span className="d-inline-block ml-1">
       <a href="mailto:info@ohpokonsult.se" style={{ color: '#000' }}>
         <img src={mail} className="contact__mail" alt="" />
-        <p>
+        <p className="contact__mail-text">
           info@ohpokonsult.se
         </p>
       </a>
