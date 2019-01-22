@@ -9,14 +9,14 @@
         <span className ="footer__link">Info@ohpokonsult.se</span>
       </a>
     </div>
-    <div className="d-inline-block">
-      <a href="https://www.linkedin.com/company/ohpo-konsult-ab/?trk=cws-cpw-logo-0-0" className = "footer__links" 
-        style = {{textDecoration:'none'}}>
+    <div className="d-inline-block"
+     style={{cursor:'pointer'}}
+     onClick={this.openLinkedin}>
         <img alt="imageLinkedIn" 
         className="footer__linkImage" 
         src={imgLinkedIn} />
-        <span className="footer__link">OHPO Konsult</span>
-      </a>
+        <span className="footer__link"
+        >OHPO Konsult</span>
     </div>
   </div>
 </div>
