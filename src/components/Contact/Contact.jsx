@@ -14,7 +14,7 @@
 
     </span>
     <span className="d-inline-block ml-1">
-      <a href="mailto:info@ohpokonsult.se" style={{ color: '#000' }}>
+      <a href="mailto:info@ohpokonsult.se" style={{ color: '#000', textDecoration: 'none' }}>
         <img src={mail} className="contact__mail" alt="" />
         <p className="contact__mail-text">
           info@ohpokonsult.se
