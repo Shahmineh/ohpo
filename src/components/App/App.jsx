@@ -15,6 +15,7 @@
     </Container-fluid>
     <Container>
       <AboutUs /> 
+      <Dots />
       <div style={{textAlign: 'center'}}>
         <Contact /> 
       </div>
