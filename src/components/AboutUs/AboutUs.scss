@@ -7,6 +7,9 @@
     padding-top: 120px;
   }
 
+  #excel {
+    padding-top: 100px;
+  }
   .aboutUs__subHeadline {
     color: #ba0000;
     padding-top: 22px;
@@ -16,6 +19,10 @@
   .aboutUs__subHeadline-image {
     color: #ba0000;
     padding-bottom: 5px;
+  }
+
+  .aboutUs__subHeadline--margin {
+    padding-top: 100px;
   }
 
     .about-us__imgs{
@@ -85,4 +92,5 @@
       margin: 0 15px 0 15px;
     }
   }
+
 }
