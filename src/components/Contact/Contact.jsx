@@ -1,5 +1,5 @@
 <div className="contact" id="contact" style={{ display: 'inline-block' }}>
-  <h2 className="contact__headline text-center mt-5 mb-4">Let's get in touch</h2>
+  <h2 className="contact__headline text-center mt-5 mb-4">Kontakta oss</h2>
   <p className="contact__text text-center pb-3">
     Redo att starta ditt nästa projekt med oss? Toppen!
     Skicka ett mail så kontaktar vi dig så snart som möjligt!
