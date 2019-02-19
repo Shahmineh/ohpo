@@ -2,7 +2,7 @@
   <h2 className="contact__headline text-center mt-5 mb-4">Let's get in touch</h2>
   <p className="contact__text text-center pb-3">
     Redo att starta ditt nästa projekt med oss? Toppen!
-    Ring oss eller skicka ett mail så kontaktar vi dig så snart som möjligt!
+    Skicka ett mail så kontaktar vi dig så snart som möjligt!
   </p>
   <div className="text-center mt-5 pb-5">
     <span className="d-inline-block mr-5"
