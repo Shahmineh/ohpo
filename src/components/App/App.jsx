@@ -13,7 +13,7 @@
         </Row>
       </Route>
     </Container-fluid>
-    <Container>
+    <Container className="container">
       <AboutUs /> 
       <Dots />
       <div style={{textAlign: 'center'}}>
