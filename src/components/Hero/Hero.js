@@ -1,5 +1,5 @@
 import './Hero.scss';
-import hero from './images/excel-hero.jpg';
+import hero from './images/malmo.jpg';
 
 export default class Hero extends Component {
 
