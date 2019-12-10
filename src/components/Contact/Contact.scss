@@ -16,6 +16,11 @@
   
   .contact__linkedin {
     width: 80px;
+    margin-bottom: 12px;
+  }
+
+  .contact__linkedin-text:hover, .contact__mail-text:hover {
+    color: #666;
   }
   
   .contact__mail {

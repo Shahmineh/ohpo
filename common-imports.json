@@ -11,6 +11,7 @@
   "  AboutUs": "components/AboutUs/AboutUs",
   "  Cases": "components/Cases/Cases",
   "  Contact": "components/Contact/Contact",
+  "  Dots": "components/Dots/Dots",
 
   "/*3": "--------  Utilities (Component based) --------",
   "  NavLink": "utilities/NavLink/NavLink",
