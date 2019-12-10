@@ -15,7 +15,7 @@
           <Scrollchor exact="true" to="#about-us" className="nav-link">Om oss</Scrollchor>
         </NavItem>
         <NavItem>
-          <Scrollchor to="#excel" className="nav-link">Tjänster</Scrollchor>
+          <Scrollchor to="#excel" className="nav-link">Våra tjänster</Scrollchor>
         </NavItem>
         <NavItem>
           <Scrollchor to="#contact" className="nav-link">Kontakta oss</Scrollchor>
