@@ -6,6 +6,25 @@
     width: 100%;
     max-height: 600px;
     object-fit: cover;
+    filter: blur(3px);
+  }
+
+  // Darken backgraound
+/*   .hero__contentHolder {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    );
+    color: black;
+  } */
+
+  .hero__content--darken {
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.5);
+    padding: 50px; 
+    border-radius: 10px;
   }
 
   .hero__content {
@@ -20,10 +39,10 @@
   }
 
   .hero__text {
+    font-family: "Open Sans",Arial,sans-serif;
     margin: 0;
     text-align: center;
     font-size: 2vw;
-    font-weight: bold;
     color: #fff;
     text-shadow: 0px 0px 15px #000;
   }
