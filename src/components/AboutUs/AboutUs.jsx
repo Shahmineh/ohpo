@@ -38,11 +38,12 @@
         <p className="about-us__content">
         Data från databaser och andra filer som används till analyser kommer ofta i ett format som kräver handpåläggning innan själva analysen kan påbörjas. Om denna handpåläggning är densamma för varje gång kan vi automatisera den genom att skapa ett program i Excels egna programmeringsspråk Visual Basic for Applications (VBA).
         </p>
+
+        <img alt="imgTeam" className="about-us__imgs" src={imgExcel} />
+
         <p className="about-us__content">
         Även där man i första hand inte tänker på Excel kan vi hjälpa till. Ett viktigt arbetsmoment för ekonomer eller annan administrativ personal är ofta att föra över data från ett system till ett annat, som t ex från ett affärssystem till ett lönehanteringssystem.</p> 
         
-        <img alt="imgTeam" className="about-us__imgs" src={imgExcel} />
-
         <p className="about-us__content"> I den bästa av världar är dessa system fullt integrerade men ofta är så inte fallet. Då återstår vanligen ett mödosamt manuellt arbete med att knappa in alla siffor för hand. Detta tar både lång tid och riskerar att bli en stor felkälla. Här kan man med fördel använda sig av filerna som systemen skapar och läser in.
         </p>
         <p className="about-us__content mt-4">
