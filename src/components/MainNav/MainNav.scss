@@ -1,8 +1,14 @@
 .mainNav {
   .navigation__logo {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #ba0000;
-    font-weight: bold;
+    width: 242px;
+
+    @media (max-width: 767px) {
+      width: 200px;
+    }
+
+    @media (max-width: 356px) {
+      width: 150px;
+    }
   }
   list-style: none;
 }
