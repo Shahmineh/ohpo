@@ -3,7 +3,7 @@
   style={{padding: '20px', backgroundColor: '#fff'}} className="fixed-top">
     <NavItem>
       <Scrollchor to='' className="nav-link">
-        <h2 className="navigation__logo">OHPO Konsult</h2>
+      <img src={logo} className="navigation__logo" alt="Company logo"></img>
       </Scrollchor>
       
     </NavItem>

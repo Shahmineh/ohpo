@@ -13,7 +13,6 @@
           <p className="about-us__content mt-5">
           Inget uppdrag är för litet eller obetydligt. Vi hjälper alla från egenföretagare till multinationella koncerner och uppdragens storlek varierar från några timmar till några månader.
           </p>
-          <Dots />
           <h2 className="aboutUs__headline--service"id="excel">Våra tjänster</h2>
           <h4 className = "aboutUs__subHeadline">Excel</h4>  
           <p className="about-us__content">
