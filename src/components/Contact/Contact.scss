@@ -27,6 +27,11 @@
     width: 100px;
   }
 
-
+  @media (max-width: 364px) {
+    .d-inline-block {
+      margin-left: 1rem !important;
+      margin-right: 1rem !important;
+    }
+  }
 }
 

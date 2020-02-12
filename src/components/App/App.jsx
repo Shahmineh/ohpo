@@ -22,7 +22,5 @@
       {/* Hide Cases untill there is some case to show */}
       {/* <Cases /> */}
     </Container>
-    
-    <Footer />
   </div>
 </Router>
