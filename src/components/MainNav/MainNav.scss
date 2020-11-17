@@ -1,0 +1,21 @@
+.mainNav {
+  .navigation__logo {
+    width: 242px;
+
+    @media (max-width: 767px) {
+      width: 200px;
+    }
+
+    @media (max-width: 356px) {
+      width: 150px;
+    }
+  }
+
+  .fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  }
+  list-style: none;
+}

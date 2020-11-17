@@ -1,0 +1,40 @@
+.dots {
+  .bar {
+    list-style: none;
+    margin-left: 45%;
+    margin-top: 100px;
+
+    @media only screen and (max-width: 576px) {
+      margin-left: 50%;
+      padding-left: 0;
+    }
+  }
+  
+  .bar >li {
+    position: relative;
+  }
+  
+  .bar>li:before {
+    content: '\25CF';
+    margin-right: 10px;
+    font-size: 5px;
+    color: rgba(0,0,0,0.5);
+  }
+  
+  .bar>li:after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: '';
+    margin-left: 5px;
+    height: 100%;
+  }
+  
+  .bar >li:first-of-type:after {
+    top: 50%;
+  }
+  
+  .bar >li:last-of-type:after {
+    top: -50%;
+  }
+}
