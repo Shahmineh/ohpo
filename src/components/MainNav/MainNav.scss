@@ -1,15 +1,27 @@
 .mainNav {
   .navigation__logo {
-    width: 242px;
+    width: 400px;
 
     @media (max-width: 767px) {
-      width: 200px;
+      width: 300px;
     }
 
     @media (max-width: 356px) {
-      width: 150px;
+      width: 200px;
     }
   }
+
+  .nav-link {
+    @media (max-width: 356px) {
+      padding: 0;
+    }
+  }
+
+  .navbar-toggler {
+    position: relative;
+    top: 3px;
+    right: -276px;
+  }
+
   list-style: none;
 }
-
