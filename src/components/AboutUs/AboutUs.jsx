@@ -29,6 +29,19 @@
           <p className="about-us__content-text">
           I stort sett allt du gör i Excel för hand kan automatiseras och det är här vi på OHPO Konsult kommer in.
           </p>
+
+          <h4 className="aboutUs__subHeadline">Integration mellan Excel och Fortnox</h4>
+          <p className="about-us__content">
+              Vi på OHPO Konsult är sedan 2019 integrationspartner till Fortnox.
+              Fortnox populära affärssytem är smidigt att arbeta och med hjälp
+              av oss kan många av funktionerna byggas ihop med era existerande
+              Excelfiler. Vi kan t ex skapa en faktureringslösning där data från
+              Excel eller en kopplad databas används för att automatiskt skapa
+              en faktura. När fakturan väl är skapad kan den ekonomiansvarige
+              verifiera den i Fortnox innan den skickas iväg. Även resten av
+              Office-paketet som t ex Word kan användas i dessa integrationer.
+              Mer om detta längre ner på sidan.
+          </p>
       </div>
       <div>
        <div className="aboutUs__subHeadline--margin">
