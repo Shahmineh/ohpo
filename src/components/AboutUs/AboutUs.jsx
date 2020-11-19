@@ -30,10 +30,10 @@
           I stort sett allt du gör i Excel för hand kan automatiseras och det är här vi på OHPO Konsult kommer in.
           </p>
 
-          <h4 className="aboutUs__subHeadline">Integration mellan Excel och Fortnox</h4>
+          <h4 className="aboutUs__subHeadline aboutUs__subHeadline--margin">Integration mellan Excel och Fortnox</h4>
           <p className="about-us__content">
               Vi på OHPO Konsult är sedan 2019 integrationspartner till Fortnox.
-              Fortnox populära affärssytem är smidigt att arbeta och med hjälp
+              Fortnox populära affärssytem är smidigt att arbeta i och med hjälp
               av oss kan många av funktionerna byggas ihop med era existerande
               Excelfiler. Vi kan t ex skapa en faktureringslösning där data från
               Excel eller en kopplad databas används för att automatiskt skapa
@@ -84,7 +84,7 @@
       </div>
        <div className="aboutUs__subHeadline--margin">
         <h4 className = "aboutUs__subHeadline">
-        Integration av Excel och resten av programmen i Officepaketet
+        Integration mellan Excel och resten av programmen i Officepaketet
         </h4>
         <p className="about-us__content">
         Förutom att bygga ihop Excel med Access kan man bygga ihop Excel med de andra programmen i Officepaketet. För Word-dokument av liknande sort, t ex offerter, är det en god ide att skapa mallar där all individuell information hämtas från Excel. Genom att bygga ihop Excel och Outlook kan man ge Excel tillgång till alla email och även instruera Outlook att skicka automatiska email om något viktigt händer i Excel. Om t ex din kollega ska använda en Excelfil efter dig kan han därför automatiskt få reda på att du är klar.
